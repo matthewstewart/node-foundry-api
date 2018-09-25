@@ -6,6 +6,7 @@
 From your terminal:
 ```
 git clone https://github.com/matthewstewart/node-foundry-api.git
+```
 
 ### Install Modules
 ```
@@ -14,7 +15,7 @@ npm install
 
 ### Run
 ```
-cd node-foundry-api && node server
+cd node-jwt-api && node server
 ```
 
 ## Configure
