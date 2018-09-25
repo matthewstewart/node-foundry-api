@@ -15,7 +15,7 @@ npm install
 
 ### Run
 ```
-cd node-jwt-api && node server
+cd node-foundry-api && node server
 ```
 
 ## Configure
