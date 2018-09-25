@@ -1,12 +1,11 @@
-# Node JWT API
+# Node Foundry API
 
 ## Install
 
 ### Clone
 From your terminal:
 ```
-git clone https://github.com/omnicoders/node-jwt-api.git
-```
+git clone https://github.com/matthewstewart/node-foundry-api.git
 
 ### Install Modules
 ```
@@ -15,7 +14,7 @@ npm install
 
 ### Run
 ```
-cd node-jwt-api && node server
+cd node-foundry-api && node server
 ```
 
 ## Configure
